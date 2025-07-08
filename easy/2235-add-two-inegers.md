@@ -2,12 +2,12 @@
 
 Given two integers (num1) and (num2), return the sum of the two integers.
 
+#### My pseudocode:
+return (number 1 + number 2)
+
 -----
 
 ### C
-
-#### My pseudocode:
-return (number 1 + number 2)
 
 #### My solution:
 ```
@@ -19,9 +19,6 @@ int sum(int num1, int num2) {
 -----
 
 ### Python
-
-#### My pseudocode:
-return (number 1 + number 2)
 
 #### My solution:
 ```
